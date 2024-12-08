@@ -1,0 +1,6 @@
+.phpintel
+/vendor
+.env
+.idea
+info.txt
+README.md
